@@ -1,3 +1,8 @@
+# You are welcome to use these program for your own scientific purposes.  
+# If you do so we would appreciate it if you include a reference to the paper announcing it: 
+#          Robust Gamma-Ray Burst Redshift Completeness Maps via Spherical Generalized Additive Models
+#          Z. Bagoly and  I. I. Racz  submitted to Universe 
+
 library(mgcv)
 library(ggplot2)
 library(mapproj)
