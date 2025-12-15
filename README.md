@@ -1,5 +1,10 @@
 # GRBPreconMap
+This code is licenced under GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007.
+
+You are welcome to use these program for your own scientific purposes.  
+If you do so we would appreciate it if you include a reference to the paper announcing it: 
 Recovering Gamma-Ray Burst Redshift Completeness Maps via Spherical Generalized Additive Models
+          Z. Bagoly and  I. I. Racz  submitted to Universe 
 
 We use a comprehensive database of the Swift GRBs with measured positions and spectroscopic redshifts.  Here we use the Swift XRT enhanced positional information, if available for a given event, otherwise we use the Swift BAT position.
 
