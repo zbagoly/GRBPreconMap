@@ -1,3 +1,4 @@
+# This code is licenced under GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007.
 # You are welcome to use these program for your own scientific purposes.  
 # If you do so we would appreciate it if you include a reference to the paper announcing it: 
 #          Robust Gamma-Ray Burst Redshift Completeness Maps via Spherical Generalized Additive Models
