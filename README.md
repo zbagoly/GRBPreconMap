@@ -6,3 +6,5 @@ We use a comprehensive database of the Swift GRBs with measured positions and sp
 The selection results in a total of 1665 GRBs in the blue.csv file.  Of this sample, 427 GRBs possess precise spectroscopic redshifts, with 300 derived from afterglow observations (bluea.csv) and 127 from host galaxy measurements (blueh.csv).
 
 In the hpixlb5.csv there are 12288 HEALPix grid positions.
+
+GRBPreconMapAHSplit.R is the main CRAN R program. 
